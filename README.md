@@ -1,4 +1,3 @@
 # invie
-Las guitarras más locas
 
-http://invie.website
+Curso de  Git y GitHub @fbohle asd
